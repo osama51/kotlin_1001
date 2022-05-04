@@ -1,0 +1,24 @@
+[1;31m
+Start test 1[0m
+Enter Width: 
+> 20
+Enter Height: 
+> 10
+Enter the image name: 
+> test/out1.png
+[1;31m
+Start test 2[0m
+Enter Width: 
+> 10
+Enter Height: 
+> 10
+Enter the image name: 
+> test/out2.png
+[1;31m
+Start test 3[0m
+Enter Width: 
+> 20
+Enter Height: 
+> 20
+Enter the image name: 
+> test/out3.png

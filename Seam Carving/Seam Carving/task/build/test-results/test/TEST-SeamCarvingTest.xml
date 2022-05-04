@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeamCarvingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-04T14:40:22" hostname="M-OSOS51" time="0.309">
+  <properties/>
+  <testcase name="start" classname="SeamCarvingTest" time="0.309"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Enter Width: 
+> 20
+Enter Height: 
+> 10
+Enter the image name: 
+> test/out1.png
+?[1;31m
+Start test 2?[0m
+Enter Width: 
+> 10
+Enter Height: 
+> 10
+Enter the image name: 
+> test/out2.png
+?[1;31m
+Start test 3?[0m
+Enter Width: 
+> 20
+Enter Height: 
+> 20
+Enter the image name: 
+> test/out3.png
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
