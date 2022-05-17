@@ -14,6 +14,7 @@ S6 |
 ## List
 
 - [x] Seam Carving 
-- [ ] StockMarket
 - [ ] Dictionary
-- [ ] Notes
+- [ ] StockMarket
+
+
