@@ -15,3 +15,4 @@ S6 |
 
 - [x] Seam Carving 
 - [ ] StockMarket
+- [ ] Dictionary
